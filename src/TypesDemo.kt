@@ -1,11 +1,14 @@
 fun main(args: Array<String>) {
 //    arrays()
 //    ranges()
-    using_when("3")
-    using_when("v")
-    using_when("z")
+//    using_when("3")
+//    using_when("v")
+//    using_when("z")
+//
+//    string_template("test string template")
+    val type = Type(name = "Dmnr")
+    println(type)
 
-    string_template("test string template")
 }
 
 fun string_template(message: String) {
