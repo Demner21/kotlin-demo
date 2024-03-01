@@ -1,4 +1,6 @@
-fun main(args: Array<String>) {
+package collection
+
+fun main() {
 //    arrays()
 //    ranges()
 //    using_when("3")
